@@ -1,0 +1,13 @@
+body{
+    background: url('../img/bg.jpg') no-repeat no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+select{
+    color: #000;
+    height: 30px;
+    width: 200px;
+    border: 0;
+    border-radius: 3px;
+}
